@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## The Create City
 
 You can use the [editor on GitHub](https://github.com/PGSCOM/The-Create-City/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
