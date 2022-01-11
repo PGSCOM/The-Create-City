@@ -19,19 +19,19 @@ Si necesitas ayuda con algo, mira los tutoriales de abajo.
 
 
 <div>
-<div><a class="wp-block-button__link" href="https://github.com/PGSCOM/The-Create-City/zipball/gh-pages" target="_blank" rel="noreferrer noopener">Descarga el mundo</a></div>
+<div><a href="https://github.com/PGSCOM/The-Create-City/zipball/gh-pages" target="_blank" rel="noreferrer noopener">Descarga el mundo</a></div>
 
+<p></p>
 
+<div><a href="https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.1.0/forge-1.16.5-36.1.0-installer.jar">Versión de forge exacta (Link de descarga oficial)</a></div>
 
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.1.0/forge-1.16.5-36.1.0-installer.jar">Versión de forge exacta (Link de descarga oficial)</a></div>
+<p></p>
 
+<div><a href="https://www.curseforge.com/minecraft/mc-mods/create/download/3278516" target="_blank" rel="noreferrer noopener">Mod create (Versión exacta y link de descarga oficial)</a></div>
 
+<p></p>
 
-<div class="wp-block-button"><a class="wp-block-button__link" href="https://www.curseforge.com/minecraft/mc-mods/create/download/3278516" target="_blank" rel="noreferrer noopener">Mod create (Versión exacta y link de descarga oficial)</a></div>
-
-
-
-<div class="wp-block-button"><a class="wp-block-button__link" href="https://optifine.net/downloads" target="_blank" rel="noreferrer noopener">Optifine (Link de descarga oficial. Instala la versión mas nueva de la versión de minecraft 1.16.5)</a></div>
+<div><a href="https://optifine.net/downloads" target="_blank" rel="noreferrer noopener">Optifine (Link de descarga oficial. Instala la versión mas nueva de la versión de minecraft 1.16.5)</a></div>
 </div>
 
 
@@ -40,15 +40,15 @@ Si necesitas ayuda con algo, mira los tutoriales de abajo.
 <p>Mira mis tutoriales</p>
 
 
-<div class="wp-block-buttons">
-<div class="wp-block-button"><a class="wp-block-button__link" href="https://tec400.blogspot.com/2021/05/como-instalar-mods-en-minecraft-forge.html" target="_blank" rel="noreferrer noopener">Como instalar mods en Minecraft</a></div>
+<div>
+<div><a href="https://tec400.blogspot.com/2021/05/como-instalar-mods-en-minecraft-forge.html" target="_blank" rel="noreferrer noopener">Como instalar mods en Minecraft</a></div>
 
+<p></p>
 
+<div><a href="https://tec400.blogspot.com/2021/05/como-instalar-un-mundo-de-minecraft.html" target="_blank" rel="noreferrer noopener">Como instalar un mundo de minecraft</a></div>
 
-<div class="wp-block-button"><a class="wp-block-button__link" href="https://tec400.blogspot.com/2021/05/como-instalar-un-mundo-de-minecraft.html" target="_blank" rel="noreferrer noopener">Como instalar un mundo de minecraft</a></div>
+<p></p>
 
-
-
-<div class="wp-block-button"><a class="wp-block-button__link" href="https://tec400.blogspot.com/2021/05/como-instalar-optifine-en-forge-como-un.html" target="_blank" rel="noreferrer noopener">Como instalar Optifine como un mod de Forge</a></div>
+<div><a href="https://tec400.blogspot.com/2021/05/como-instalar-optifine-en-forge-como-un.html" target="_blank" rel="noreferrer noopener">Como instalar Optifine como un mod de Forge</a></div>
 </div>
 	
