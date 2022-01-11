@@ -1,35 +1,54 @@
 ## The Create City
 
-Mundo de Minecraft que utiliza el mod create
+The Create city es un mundo de minecraft que utiliza el mod create.
 
-### Markdown
+Si necesitas ayuda con algo, mira los tutoriales de abajo.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<h1>Para entrar en el mundo necesitas:</h1>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+<ul>
+<li>Forge 1.16.5-36.1.0</li>
+<li>Create mod 1.16.4+ v0.3.1c</li>
+<li>(Opcional) Optifine mod 1.16.5 (Optimiza mas el juego)</li>
+<li>El propio mundo :v</li>
+</ul>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<div>
+<div><a class="wp-block-button__link" href="https://github.com/PGSCOM/The-Create-City/zipball/gh-pages" target="_blank" rel="noreferrer noopener">Descarga el mundo</a></div>
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PGSCOM/The-Create-City/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.1.0/forge-1.16.5-36.1.0-installer.jar">Versión de forge exacta (Link de descarga oficial)</a></div>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://www.curseforge.com/minecraft/mc-mods/create/download/3278516" target="_blank" rel="noreferrer noopener">Mod create (Versión exacta y link de descarga oficial)</a></div>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://optifine.net/downloads" target="_blank" rel="noreferrer noopener">Optifine (Link de descarga oficial. Instala la versión mas nueva de la versión de minecraft 1.16.5)</a></div>
+</div>
+
+
+
+<h1>¿Necesitas ayuda?</h1>
+<p>Mira mis tutoriales</p>
+
+
+<div class="wp-block-buttons">
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://tec400.blogspot.com/2021/05/como-instalar-mods-en-minecraft-forge.html" target="_blank" rel="noreferrer noopener">Como instalar mods en Minecraft</a></div>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://tec400.blogspot.com/2021/05/como-instalar-un-mundo-de-minecraft.html" target="_blank" rel="noreferrer noopener">Como instalar un mundo de minecraft</a></div>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://tec400.blogspot.com/2021/05/como-instalar-optifine-en-forge-como-un.html" target="_blank" rel="noreferrer noopener">Como instalar Optifine como un mod de Forge</a></div>
+</div>
+	
