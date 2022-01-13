@@ -54,6 +54,6 @@ Si necesitas ayuda con algo, mira los tutoriales de abajo.
 
 <!--
 
-Hola :]
+Hola :] x2
 
 -->
