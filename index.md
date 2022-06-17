@@ -13,7 +13,6 @@ Si necesitas ayuda con algo, mira los tutoriales de abajo.
 <li>Forge 1.16.5-36.1.0</li>
 <li>Create mod 1.16.4+ v0.3.1c</li>
 <li>(Opcional) Optifine mod 1.16.5 (Optimiza mas el juego)</li>
-<li>El propio mundo :v</li>
 </ul>
 
 
